@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "pyvideo_tools"
-  site-url: "https://aaronsgithub.github.io/pyvideo_tools"
+  title: "pyvideo-tools"
+  site-url: "https://aaronsgithub.github.io/pyvideo-tools"
   description: "Tools for working with pyvideo.org and its data"
   repo-branch: main
-  repo-url: "https://github.com/aaronsgithub/pyvideo_tools"
+  repo-url: "https://github.com/aaronsgithub/pyvideo-tools"
